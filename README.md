@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Welcome to visit my page! I am majoring in artificial intelligence at Dong-A University and I'm interested in Large Language model.
+Welcome to my profile! This is an overview of my github activities. You can see what I did and what I'm planning to do
