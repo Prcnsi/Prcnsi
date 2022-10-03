@@ -8,7 +8,7 @@ and I'm planning to project about that. Below is what I have studied so far.
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-색상코드?style=flat&logo=Pandas&logoColor=로고색"/>
   <img src="https://img.shields.io/badge/Scikit-learn-색상코드?style=flat&logo=Scikit-learn&logoColor=로고색"/>
-  <img src="https://img.shields.io/badge/tensorflow-색상코드?style=flat&logo=tensorflow&logoColor=#FF6F00"/>
+  <img src="https://img.shields.io/badge/tensorflow-#FF6F00?style=flat&logo=tensorflow&logoColor=#FF6F00"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
