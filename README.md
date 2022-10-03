@@ -16,7 +16,11 @@ and I'm planning to project about that. Below is what I have studied so far.
 </div>
 
 <div align='center'>
-  Tech blog
+  <h1>Tech blog</h1>
+  - I have been running a tech blog for 1 year:)
+  <a href='https://perconsi.tistory.com/'><img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat&logo=Tistory&logoColor=white"/></a>
+ </div>
+ 
  
 # Awards
 - 🥇 BI 아이디어 공모전 빅데이터 분석 파트 대상 수상(1/179, 팀장으로 참여) [[github]](https://github.com/solar-and-Big-Data-contest/Solar_Location_Code) [[link]](https://datacontest.kr/board/view/97533073/3694)
