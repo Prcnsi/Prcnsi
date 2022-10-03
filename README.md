@@ -3,9 +3,13 @@
 Welcome to my profile! I'm interested in natural language processing based(NLP) on language models such as BERT, GPT-3.
 and I'm planning to project about that. Below is what I have studied so far.
 
-# Awards
+<div align='center'>
+  
+  <h1>Awards</h1>
 - 🥇 BI 아이디어 공모전 빅데이터 분석 파트 대상 수상(1/179, 팀장으로 참여) [[github]](https://github.com/solar-and-Big-Data-contest/Solar_Location_Code) [[link]](https://datacontest.kr/board/view/97533073/3694)
+</div>
 
+<br>
 <div align='center'>
   <h1>Tech Stack</h1><br>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=&logo=Python&logoColor=white"/>
