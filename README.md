@@ -9,7 +9,6 @@ and I'm planning to project about that. Below is what I have studied so far.
 <br>
 <div align='center'>
   <h1>Tech blog</h1>
-  - I have been running a tech blog for 1 year:) <br>
   <a href='https://perconsi.tistory.com/'><img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/></a>
  </div>
  
