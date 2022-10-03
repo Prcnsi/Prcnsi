@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile! I'm interested in natural language processing based(NLP) on language models such as BERT, GPT-3.
+Welcome to my profile! I'm interested in natural language processing based(NLP) on language models<br> such as BERT, GPT-3.
 If you have any interest of that Contact me Plz:)
 
 # Awards
