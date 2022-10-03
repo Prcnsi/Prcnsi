@@ -4,7 +4,7 @@ Welcome to my profile! I'm interested in natural language processing based(NLP) 
 and I'm planning to project about that. Below is what I have studied so far.
 
 <div align='center'>
-  # Tech Stack
+  <h1>Tech Stack</h1>
 </div>
 
 # Awards
