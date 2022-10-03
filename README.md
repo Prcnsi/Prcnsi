@@ -16,7 +16,7 @@ and I'm planning to project about that. Below is what I have studied so far.
 </div>
 
 # Awards
-- 🥇 BI 아이디어 공모전 빅데이터 분석 파트 대상 수상(1/179, 산업통상자원부 장관상) [[github]](https://github.com/solar-and-Big-Data-contest/Solar_Location_Code)
+- 🥇 BI 아이디어 공모전 빅데이터 분석 파트 팀장으로 대상 수상(1/179, 산업통상자원부 장관상) [[github]](https://github.com/solar-and-Big-Data-contest/Solar_Location_Code)
 
 # Projects
 
