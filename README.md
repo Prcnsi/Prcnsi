@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my profile! I'm interested in natural language processing based(NLP) on language models such as BERT, GPT-3.
-and I'm planning to project about that. Below is what I have studied so far.
+If you have any interest of that Contact me Plz:)
 
 # Awards
 - :trophy: BI 아이디어 공모전 빅데이터 분석 파트 대상 수상(1/179, 산업통상자원부 장관상 수상) [[github]](https://github.com/solar-and-Big-Data-contest/Solar_Location_Code) [[link]](https://datacontest.kr/board/view/97533073/3694)
