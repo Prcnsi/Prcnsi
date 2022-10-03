@@ -14,10 +14,10 @@ and I'm planning to project about that. Below is what I have studied so far.
   <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
 </div>
-
+<br>
 <div align='center'>
   <h1>Tech blog</h1>
-  - I have been running a tech blog for 1 year:)
+  - I have been running a tech blog for 1 year:) <br>
   <a href='https://perconsi.tistory.com/'><img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat&logo=Tistory&logoColor=white"/></a>
  </div>
  
@@ -30,4 +30,5 @@ and I'm planning to project about that. Below is what I have studied so far.
 
 
 
-### If you have any Question? contact us freely:)
+### If you have any Question? contact us freely:) 
+<img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
