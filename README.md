@@ -8,6 +8,13 @@ and I'm planning to project about that. Below is what I have studied so far.
 
 <br>
 <div align='center'>
+  <h1>Tech blog</h1>
+  - I have been running a tech blog for 1 year:) <br>
+  <a href='https://perconsi.tistory.com/'><img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/></a>
+ </div>
+ 
+ <br>
+<div align='center'>
   <h1>Tech Stack</h1><br>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -18,12 +25,6 @@ and I'm planning to project about that. Below is what I have studied so far.
   <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
 </div>
-<br>
-<div align='center'>
-  <h1>Tech blog</h1>
-  - I have been running a tech blog for 1 year:) <br>
-  <a href='https://perconsi.tistory.com/'><img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/></a>
- </div>
  
 <br>
 <div align='center'>
