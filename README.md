@@ -24,9 +24,7 @@ and I'm planning to project about that. Below is what I have studied so far.
   <a href='https://perconsi.tistory.com/'><img src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/></a>
  </div>
  
-<br><br>
-
-
+<br>
 <div align='center'>
   <h1>Contact</h1>
   <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
