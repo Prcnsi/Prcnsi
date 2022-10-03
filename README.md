@@ -27,6 +27,7 @@ and I'm planning to project about that. Below is what I have studied so far.
 <br><br>
 
 
-### If you have any Question? contact us freely:) 
----
-<img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
+<div align='center'>
+  <h1>Contact</h1>
+  <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squaare&logo=Gmail&logoColor=white"/>
+</div>
