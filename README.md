@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Welcome to my profile. I am interested in Reinforcement Learning for robotics. 
+Welcome to my profile. I am interested in Bigdata analysis with multi-modal.
 
 <br>
 <div align='center'>
