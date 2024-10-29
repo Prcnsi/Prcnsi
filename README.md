@@ -1,12 +1,11 @@
 ### Hi there 👋 
 Welcome to my profile. I am interested in studying Task and Motion Planning (TAMP) to realize general-purpose robots that enhance daily life.
 
-<br> 
 
 # Publications
 - Carbon-Aware and Fault-Tolerant Migration of Deep Learning Workloads in the Geo-Distributed Cloud
   - 2024 IEEE 17th International Conference on Cloud Computing (CLOUD)  
-<br>
+
 
 # Awards
 - :trophy: 2024 제5회 디지털 신기술 아이디어 경진대회 대상(부산광역시장상) 수상
